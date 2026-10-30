@@ -5,10 +5,11 @@ BLUE = "#209dd7"
 PURPLE = "#753991"
 
 EXAMPLES = [
-    "Tell me about your background and experience.",
-    "What kinds of projects are you working on now?",
-    "What are your strongest technical skills?",
-    "How can I get in touch with you?",
+    "Tell me what you do",
+    "Will I be able to update my story online?",
+    "Do I have control over who can access my data?",
+    "How are my data protected?",
+    "How can I get in touch with you?"
 ]
 
 CSS = """
