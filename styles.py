@@ -9,6 +9,8 @@ EXAMPLES = [
     "Will I be able to update my story online?",
     "Do I have control over who can access my data?",
     "How are my data protected?",
+    "Are there confidentiality agreements that bind both my staff and third-party vendors who handle my materials? ",
+    "Could you please provide information about your pricing plans?",
     "How can I get in touch with you?"
 ]
 
